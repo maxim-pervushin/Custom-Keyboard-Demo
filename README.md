@@ -1,4 +1,4 @@
 Keyboard-Demo
 =============
 
-iOS custom key demonstration project
+iOS custom keyboard demonstration project
